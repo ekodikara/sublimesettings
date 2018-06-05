@@ -1,0 +1,41 @@
+{
+	"added_words":
+	[
+		"Laravel"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Smoothy_7.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"font_face": "Fira Code",
+	"font_size": 12,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"SublimeLinter-jshint",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"remember_open_files": false,
+	"show_definitions": false,
+	"show_panel_on_build": false,
+	"syntax_docset_map":
+	{
+		"PHP":
+		[
+			"php",
+			"laravel",
+			"html",
+			"mysql"
+		]
+	},
+	"tab_size": 4,
+	"tabs_small": false,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
